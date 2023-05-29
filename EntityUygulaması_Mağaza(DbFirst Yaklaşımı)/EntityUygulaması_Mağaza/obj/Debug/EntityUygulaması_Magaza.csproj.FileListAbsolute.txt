@@ -1,0 +1,60 @@
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe.config
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.pdb
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.dll
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.xml
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form1.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormAnaMenu.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormUrunler.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Properties.Resources.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CopyComplete
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.pdb
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form_Istatistikler.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormGiris.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe.config
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.pdb
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.dll
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.xml
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormAnaMenu.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormGiris.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormUrunler.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form_Istatistikler.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Properties.Resources.resources
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CopyComplete
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.pdb
+C:\Users\mehme\Desktop\yeniden_yapılan_projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form_Kategori.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe.config
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityUygulaması_Mağaza.pdb
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.dll
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.xml
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.AssemblyReference.cache
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.SuggestedBindingRedirects.cache
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form_Kategori.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormAnaMenu.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormGiris.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.FormUrunler.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Form_Istatistikler.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.Properties.Resources.resources
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.GenerateResource.cache
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Magaza.csproj.CopyComplete
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.exe
+C:\Users\mehme\Desktop\GitHuba_Yüklenicek_Projeler\EntityUygulaması_Mağaza(DbFirst Yaklaşımı)\EntityUygulaması_Mağaza\obj\Debug\EntityUygulaması_Mağaza.pdb
